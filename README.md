@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning development languages, design tools and programming languages
 - 💞️ I’m looking to collaborate in tecnology world to help the humanity evolve in all areas to live better
 - 📫 you can find me at the instagram as @tlopes_js, follow me i´m a nice guy :)
-
+=========================================================================================================================================================================
 - 👋 Ola, Eu sou @devtlopes
 - 👀 Eu sou interessado em tudo sobre tecnologia e musica.
 - 🌱 Eu estou aprendendo atualmente linguagens de desenvolvimento, ferramentas de design e linguagens de programação.
